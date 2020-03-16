@@ -3,3 +3,4 @@
     p Dashboard
     router-view
 </template>
+

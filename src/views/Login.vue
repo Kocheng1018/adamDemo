@@ -3,6 +3,8 @@
     Card
       p(slot="title") {{ $t('Login') }}
       FormTool(:Instance="Instance" Button="登入" :Btn_long="true" @handleResult="Login" :inline="true")
+      //- router-link(to='/dashboard') test
+      //- router-view
 </template>
 
 <script>
