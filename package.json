@@ -33,7 +33,7 @@
     "chai": "^4.1.2",
     "less": "^2.7.3",
     "less-loader": "^4.0.6",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "path": "^0.12.7",
     "sass-loader": "^7.1.0",
     "vue-auto-routing": "^0.2.0",
