@@ -38,7 +38,7 @@
     "sass-loader": "^7.1.0",
     "vue-auto-routing": "^0.2.0",
     "vue-cli-plugin-auto-routing": "^0.1.2",
-    "vue-cli-plugin-i18n": "^0.5.0",
+    "vue-cli-plugin-i18n": "^2.3.1",
     "vue-cli-plugin-iview": "^1.0.6",
     "vue-cli-plugin-pug": "^1.0.5",
     "vue-template-compiler": "^2.5.17"
